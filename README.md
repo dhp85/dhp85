@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Diego Herreros Parrón
+# ¡Hola! 👋 Soy Diego Herreros
 
 <div id="header" align="center">
     <img decoding="async" src="https://github.com/dhp85/banner/blob/main/banner%20git%20hub.png?raw=true" width="800"/>
@@ -20,15 +20,16 @@ Desarrollador de software con experiencia en desarrollo de apps mobiles IOS & AN
 
 ## 🌱 Actualmente aprendiendo
 
-- [KOTLIN, JETPACK, JETPACK COMPOSE, RETROFIT, FIREBASE, JUNIT, KOTLIN MULTIPLATAFORM]
+- [SERVER SIDE, KOTLIN, JETPACK, JETPACK COMPOSE, RETROFIT, FIREBASE, JUNIT, KOTLIN MULTIPLATAFORM]
 
 
 ## 📈 Proyectos Destacados
 
 Aquí están algunos de mis proyectos destacados que he creado. Cada uno de ellos muestra diferentes habilidades y conceptos que he aprendido durante mi desarrollo.
 
-- [**DragonBall_MVVM**](https://github.com/dhp85/DragonBall_MVVM.git): Proyecto basado en el patrón de arquitectura MVVM para gestionar y mostrar datos de personajes de Dragon Ball.- [**DBHeroesAvanzado**](https://github.com/dhp85/DBHeroesAvanzado.git): Aplicación que muestra una lista de héroes de Dragon Ball utilizando técnicas avanzadas en Android.
-- [**DragonBallHeroes**](https://github.com/dhp85/DragonBallHeroes.git): Proyecto donde se implementa la visualización de personajes de Dragon Ball con integración de diversas APIs.
+- [**DragonBallHeroes**](https://github.com/dhp85/DragonBallHeroes.git): Proyecto donde se implementa la visualización de personajes de Dragon Ball con integración a APIs.
+- [**DragonBall_MVVM**](https://github.com/dhp85/DragonBall_MVVM.git): Proyecto basado en el patrón de arquitectura MVVM para gestionar y mostrar datos de personajes de Dragon Ball.
+- [**DBHeroesAvanzado**](https://github.com/dhp85/DBHeroesAvanzado.git): Aplicación que muestra una lista de héroes de Dragon Ball utilizando técnicas avanzadas en IOS.
 - [**DBHeroes-Reactivo**](https://github.com/dhp85/DBHeroes-Reactivo.git): Proyecto que utiliza programación reactiva para gestionar y mostrar personajes de Dragon Ball.
 
 
