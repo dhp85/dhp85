@@ -27,6 +27,7 @@ Desarrollador de software con experiencia en desarrollo de apps mobiles IOS & AN
 
 Aquí están algunos de mis proyectos destacados que he creado. Cada uno de ellos muestra diferentes habilidades y conceptos que he aprendido durante mi desarrollo.
 
+- [**DBHeroesSwiftUI**](https://github.com/dhp85/DBHeroesSwiftUI.git): Proyecto que utiliza SwiftUI y su reactividad para crear interfaces modernas, dinámicas y eficientes, adaptándose automáticamente a los cambios en los datos y proporcionando una experiencia de usuario fluida.
 - [**DragonBallHeroes**](https://github.com/dhp85/DragonBallHeroes.git): Proyecto donde se implementa la visualización de personajes de Dragon Ball con integración a APIs.
 - [**DragonBall_MVVM**](https://github.com/dhp85/DragonBall_MVVM.git): Proyecto basado en el patrón de arquitectura MVVM para gestionar y mostrar datos de personajes de Dragon Ball.
 - [**DBHeroesAvanzado**](https://github.com/dhp85/DBHeroesAvanzado.git): Aplicación que muestra una lista de héroes de Dragon Ball utilizando técnicas avanzadas en IOS.
