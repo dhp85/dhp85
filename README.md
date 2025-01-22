@@ -31,6 +31,7 @@ Aquí están algunos de mis proyectos destacados que he creado. Cada uno de ello
 - [**DragonBallHeroes**](https://github.com/dhp85/DragonBallHeroes.git): Proyecto donde se implementa la visualización de personajes de Dragon Ball con integración a APIs.
 - [**DragonBall_MVVM**](https://github.com/dhp85/DragonBall_MVVM.git): Proyecto basado en el patrón de arquitectura MVVM para gestionar y mostrar datos de personajes de Dragon Ball.
 - [**DBHeroesAvanzado**](https://github.com/dhp85/DBHeroesAvanzado.git): Aplicación que muestra una lista de héroes de Dragon Ball utilizando técnicas avanzadas en IOS.
+- [**Lista de Tareas**](https://github.com/dhp85/ListaTareas.git): Una pequeña aplicación de tareas(CRUD) donde utilizo SwiftUI para la interface de usuario y SwiftData para la persistencia de datos.
 - [**DBHeroes-Reactivo**](https://github.com/dhp85/DBHeroes-Reactivo.git): Proyecto que utiliza programación reactiva para gestionar y mostrar personajes de Dragon Ball.
 - [**DesarrolloSeguroIOSAppDB**](https://github.com/dhp85/DesarrolloSeguroIOSAppDB.git): Desarrollé una aplicación en Swift integrando SSL Pinning, AES 256, ofuscación de código y Keychain para asegurar las comunicaciones, proteger la lógica y gestionar datos sensibles de manera segura.
 
