@@ -22,7 +22,7 @@ Desarrollador de software con experiencia en desarrollo de apps IOS & ANDROID. C
 
 ## 🌱 Actualmente aprendiendo
 
-- [JETPACK COMPOSE, RETROFIT, FIREBASE, JUNIT, KOTLIN MULTIPLATAFORM]
+- [JETPACK COMPOSE, FIREBASE, JUNIT, KOTLIN MULTIPLATAFORM]
 
 
 ## 📈 Proyectos Destacados
