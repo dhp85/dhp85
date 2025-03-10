@@ -14,13 +14,15 @@ Desarrollador de software con experiencia en desarrollo de apps IOS & ANDROID. C
 
 ## 🚀 Habilidades y Tecnologías
 
-- **Lenguajes de Programación**: Swift.
+- **Lenguajes de Programación**: Swift y Kotlin.
 
-- **Herramientas y Tecnologías**: SwiftUI, UIKit, CoreData, SwiftData, Combine, Async/Await, Desarrollo seguro IOS.
+- **Herramientas y Tecnologías iOS**: xCode, SwiftUI, UIKit, CoreData, SwiftData, Combine, Async/Await, Desarrollo seguro IOS.
+
+- **Herramientas y Tecnologías Android**: Android Studio, Kotlin Coroutines, Glide, Room, Retrofit.
 
 ## 🌱 Actualmente aprendiendo
 
-- [SERVER SIDE, KOTLIN, JETPACK, JETPACK COMPOSE, RETROFIT, FIREBASE, JUNIT, KOTLIN MULTIPLATAFORM]
+- [JETPACK COMPOSE, RETROFIT, FIREBASE, JUNIT, KOTLIN MULTIPLATAFORM]
 
 
 ## 📈 Proyectos Destacados
