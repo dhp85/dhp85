@@ -27,7 +27,7 @@ Desarrollador de software con experiencia en desarrollo de apps IOS & ANDROID. C
 
 ## 📈 Proyectos Destacados iOS 🍏
 
-Aquí están algunos de los proyectos que he creado para iOS. Cada uno de ellos muestra diferentes habilidades y conceptos que he aprendido durante mi desarrollo.
+Aquí están algunos de los proyectos que he creado para iOS. Cada uno de ellos muestra diferentes habilidades y conceptos que he aprendido durante mi aprendizaje como desarrollador mobile.
 
 - [**MarvelHeroes-SwiftUI**](https://github.com/dhp85/MarvelHero_SwiiftUI.git): MarvelHeroes-SwiftUI es una aplicación desarrollada en SwiftUI que consume la API de Marvel para mostrar una lista de héroes y detalle donde incluye las series en las que aparecen. El proyecto sigue la arquitectura MVVM y utiliza async/await para manejar operaciones asincronas.
 - [**DBHeroesSwiftUI**](https://github.com/dhp85/DBHeroesSwiftUI.git): Proyecto que utiliza SwiftUI y su reactividad para crear interfaces modernas, dinámicas y eficientes, adaptándose automáticamente a los cambios en los datos y proporcionando una experiencia de usuario fluida.
@@ -39,7 +39,7 @@ Aquí están algunos de los proyectos que he creado para iOS. Cada uno de ellos 
 
 ## 📈 Proyectos Destacados Android 🤖
 
-Aquí están algunos de los proyectos que he creado para Android. Cada uno de ellos muestra diferentes habilidades y conceptos que he aprendido durante mi desarrollo.
+Aquí están algunos de los proyectos que he creado para Android. Cada uno de ellos muestra diferentes habilidades y conceptos que he aprendido durante aprendizaje como desarrollador mobile.
 
 - [**DBHeroKombat**](https://github.com/dhp85/DbHeroKombat.git): Este proyecto es una aplicación móvil Android que simula batallas de Dragon Ball, cumpliendo con los requisitos de Fundamentos Android. Utiliza la API proporcionada para obtener los personajes y permite al usuario interactuar con ellos en un entorno de batalla.
 
