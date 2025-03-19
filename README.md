@@ -18,27 +18,30 @@ Desarrollador de software con experiencia en desarrollo de apps IOS & ANDROID. C
 
 - **Herramientas y Tecnologías iOS**: xCode, SwiftUI, UIKit, CoreData, SwiftData, Combine, Async/Await, Desarrollo seguro IOS.
 
-- **Herramientas y Tecnologías Android**: Android Studio, Kotlin Coroutines, Glide, Room, Retrofit.
+- **Herramientas y Tecnologías Android**: Android Studio, Kotlin Coroutines, Glide, Room, Retrofit, Dagger Hilt.
 
 ## 🌱 Actualmente aprendiendo
 
-- [JETPACK COMPOSE, FIREBASE, JUNIT, KOTLIN MULTIPLATAFORM]
+- Después de unos meses intensos en el bootcamp, aprendiendo los fundamentos y desarrollo avanzado en iOS, ahora me encuentro aprendiendo Android(Fundamentos, Android Avanzado, JetPackCompose).
 
 
-## 📈 Proyectos Destacados
+## 📈 Proyectos Destacados iOS 🍏
 
-Aquí están algunos de mis proyectos destacados que he creado. Cada uno de ellos muestra diferentes habilidades y conceptos que he aprendido durante mi desarrollo.
+Aquí están algunos de los proyectos que he creado para iOS. Cada uno de ellos muestra diferentes habilidades y conceptos que he aprendido durante mi desarrollo.
 
+- [**MarvelHeroes-SwiftUI**](https://github.com/dhp85/MarvelHero_SwiiftUI.git): MarvelHeroes-SwiftUI es una aplicación desarrollada en SwiftUI que consume la API de Marvel para mostrar una lista de héroes y detalle donde incluye las series en las que aparecen. El proyecto sigue la arquitectura MVVM y utiliza async/await para manejar operaciones asincronas.
 - [**DBHeroesSwiftUI**](https://github.com/dhp85/DBHeroesSwiftUI.git): Proyecto que utiliza SwiftUI y su reactividad para crear interfaces modernas, dinámicas y eficientes, adaptándose automáticamente a los cambios en los datos y proporcionando una experiencia de usuario fluida.
-- [**DragonBallHeroes**](https://github.com/dhp85/DragonBallHeroes.git): Proyecto donde se implementa la visualización de personajes de Dragon Ball con integración a APIs.
-- [**DragonBall_MVVM**](https://github.com/dhp85/DragonBall_MVVM.git): Proyecto basado en el patrón de arquitectura MVVM para gestionar y mostrar datos de personajes de Dragon Ball.
-- [**DBHeroesAvanzado**](https://github.com/dhp85/DBHeroesAvanzado.git): Aplicación que muestra una lista de héroes de Dragon Ball utilizando técnicas avanzadas en IOS.
+- [**DBHeroesAvanzado**](https://github.com/dhp85/DBHeroesAvanzado.git): Aplicación que muestra una lista de héroes de Dragon Ball utilizando técnicas avanzadas en IOS (CoreData, KeyChain, NotificationCenter, UIKit, MapKit, CoreLocation).
 - [**Lista de Tareas**](https://github.com/dhp85/ListaTareas.git): Una pequeña aplicación de tareas(CRUD) donde utilizo SwiftUI para la interface de usuario y SwiftData para la persistencia de datos.
-- [**DBHeroes-Reactivo**](https://github.com/dhp85/DBHeroes-Reactivo.git): Proyecto que utiliza programación reactiva para gestionar y mostrar personajes de Dragon Ball.
+- [**DBHeroes-Reactivo**](https://github.com/dhp85/DBHeroes-Reactivo.git): Proyecto desarrollado en UIKit que utiliza programación reactiva para gestionar y mostrar personajes de Dragon Ball.
 - [**DesarrolloSeguroIOSAppDB**](https://github.com/dhp85/DesarrolloSeguroIOSAppDB.git): Desarrollé una aplicación en Swift integrando SSL Pinning, AES 256, ofuscación de código y Keychain para asegurar las comunicaciones, proteger la lógica y gestionar datos sensibles de manera segura.
 
 
+## 📈 Proyectos Destacados Android 🤖
 
+Aquí están algunos de los proyectos que he creado para Android. Cada uno de ellos muestra diferentes habilidades y conceptos que he aprendido durante mi desarrollo.
+
+- [**DBHeroKombat**](https://github.com/dhp85/DbHeroKombat.git): Este proyecto es una aplicación móvil Android que simula batallas de Dragon Ball, cumpliendo con los requisitos de Fundamentos Android. Utiliza la API proporcionada para obtener los personajes y permite al usuario interactuar con ellos en un entorno de batalla.
 
 
 ## 🌟 Objetivos Profesionales
