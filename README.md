@@ -20,11 +20,6 @@ Desarrollador de software con experiencia en desarrollo de apps IOS & ANDROID. C
 
 - **Herramientas y Tecnologías Android**: Android Studio, Kotlin Coroutines, Glide, Room, Retrofit, Dagger Hilt.
 
-## 🌱 Actualmente aprendiendo
-
-- Después de unos meses intensos en el bootcamp, aprendiendo los fundamentos y desarrollo avanzado en iOS, ahora me encuentro aprendiendo Android(Fundamentos, Android Avanzado, JetPackCompose).
-
-
 ## 📈 Proyectos Destacados iOS 🍏
 
 Aquí están algunos de los proyectos que he creado para iOS. Cada uno de ellos muestra diferentes habilidades y conceptos que he aprendido durante mi aprendizaje como desarrollador mobile.
