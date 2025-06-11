@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Diego Herreros
 
 <div id="header" align="center">
-      <img src="https://github.com/dhp85/banner-dos/blob/main/banner-dos.png?raw=true" width="800">
+    <img decoding="async" src="https://github.com/dhp85/banner/blob/main/banner%20git%20hub.png?raw=true" width="800"/>
 </div>
 
 https://github.com/dhp85/banner-dos.git
