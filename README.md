@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Diego Herreros
 
 <p align="center">
-  <img src="https://github.com/dhp85/dhp85/blob/main/banner%20git%20hub.png?raw=true" width="800" alt="Banner de Diego Herreros" />
+  <img src="https://github.com/dhp85/dhp85/blob/main/banner.png?raw=true" width="800"/>
 </p>
 
 Desarrollador iOS especializado en aplicaciones nativas con Swift. Constantemente busco aprender y profundizar en el ecosistema Apple. ¡Bienvenidos a mi perfil!
