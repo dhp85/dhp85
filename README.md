@@ -19,6 +19,7 @@ Desarrollador iOS especializado en aplicaciones nativas con Swift. Constantement
  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" /> 
 </span>
 <br>
+
 ### Herramientas
 <span>
    <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge" /> 
