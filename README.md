@@ -33,9 +33,6 @@ Desarrollador iOS especializado en aplicaciones nativas con Swift. Constantement
 </span>
 <br>
 
-![snake gif](https://github.com/dhp85/dhp85/blob/main/dist/github-snake.svg)
-
-
 ## 📈 Proyectos Destacados iOS 🍏
 
 Aquí están algunos de los proyectos que he creado para iOS. Cada uno de ellos muestra diferentes habilidades y conceptos que he aprendido durante mi aprendizaje como desarrollador mobile.
