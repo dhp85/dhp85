@@ -33,6 +33,9 @@ Desarrollador iOS especializado en aplicaciones nativas con Swift. Constantement
 </span>
 <br>
 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
+
+
 ## 📈 Proyectos Destacados iOS 🍏
 
 Aquí están algunos de los proyectos que he creado para iOS. Cada uno de ellos muestra diferentes habilidades y conceptos que he aprendido durante mi aprendizaje como desarrollador mobile.
