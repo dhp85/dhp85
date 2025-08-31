@@ -12,11 +12,17 @@ Desarrollador iOS especializado en aplicaciones nativas con Swift. Constantement
 - Correo Electrónico: diegohp85@gmail.com
 - GitHub: https://github.com/dhp85
 
-## 🚀 Habilidades y Tecnologías
-
-- **Lenguajes de Programación**: Swift.
-
-- **Herramientas iOS**: Xcode, SwiftUI, UIKit, CoreData, SwiftData, Combine, Async/Await, MVC/MVVM, SSL Pinning, AES-GCM, KeyChain
+## Habilidades y Tecnologias
+### Lenguajes de programacion
+<span>
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /> 
+</span>
+<br>
 
 ## 📈 Proyectos Destacados iOS 🍏
 
