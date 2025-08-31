@@ -1,7 +1,7 @@
 # Hola,Soy [Diego Herreros!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center">
-  <img src="https://github.com/dhp85/dhp85/blob/main/mobileDeveloper.png?raw=true" width="800"/>
+  <img src="https://github.com/dhp85/dhp85/blob/main/mobileDevelper.png?raw=true" width="800"/>
 </p>
 
 Desarrollador Mobile especializado en aplicaciones nativas con Swift y Kotlin. Constantemente busco aprender y profundizar en el ecosistema mobile. ¡Bienvenidos a mi perfil!
