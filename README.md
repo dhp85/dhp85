@@ -49,7 +49,7 @@ Experiencia adicional en desarrollo Android con Kotlin, lo que me permite compre
 
 ## 🌟 Objetivos Profesionales
 
-Actualmente desarrollo aplicaciones moviles Nativas personales para consolidar mis habilidades técnicas y explorar nuevas funcionalidades del ecosistema Apple. Busco incorporarme a un equipo de desarrollo donde pueda aportar mis conocimientos y mi pasión por crear experiencias móviles excepcionales. Estoy preparado para contribuir desde el primer día con mi conocimiento técnico, capacidad de resolución de problemas y compromiso con la calidad del código.
+Actualmente desarrollo aplicaciones moviles Nativas personales para consolidar mis habilidades técnicas y explorar nuevas funcionalidades del ecosistema Apple & Android. Busco incorporarme a un equipo de desarrollo donde pueda aportar mis conocimientos y mi pasión por crear experiencias móviles excepcionales. Estoy preparado para contribuir desde el primer día con mi conocimiento técnico, capacidad de resolución de problemas y compromiso con la calidad del código.
 
 ## 💬 Hablemos
 
