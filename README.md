@@ -12,7 +12,7 @@ Desarrollador iOS especializado en aplicaciones nativas con Swift. Constantement
 - Correo Electrónico: diegohp85@gmail.com
 - GitHub: https://github.com/dhp85
 
-## Habilidades y Tecnologias
+## Habilidades y Tecnologias <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 ### Lenguajes de programacion
 <span>
    <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge" /> 
@@ -32,8 +32,6 @@ Desarrollador iOS especializado en aplicaciones nativas con Swift. Constantement
    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" /> 
 </span>
 <br>
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
 
 ## 📈 Proyectos Destacados iOS 🍏
